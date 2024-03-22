@@ -16,11 +16,11 @@ const Hero = () => {
       <h1 className="head_text py-2">
         Summarize Articles with 
         <br className="max-md:hidden"/>
-        <span className="orange_gradient">
+        <span className="gradient">
           OpenAI GPT-4
         </span>
       </h1>
-      <h2 className='py-2'>
+      <h2 className='py-2 text-slate-700'>
         Summa converts articles links into concise summaries with an open-source article summarizer. Works best on websites with clearly defined blocks of text.
       </h2>
     </header>
