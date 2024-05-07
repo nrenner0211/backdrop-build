@@ -26,7 +26,7 @@ Cloned from my other repo, [Ai Summarizr](https://github.com/nrenner0211/ai-summ
 
 🔗 [Repository](https://github.com/nrenner0211/backdrop-build)
 
-<!-- 🔗 [Deployed](https://ai-summarizr.netlify.app/) -->
+🔗 [Deployed](https://backdrop-build.netlify.app/)
 
 ## Installation
 
