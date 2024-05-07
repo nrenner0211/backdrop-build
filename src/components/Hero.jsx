@@ -7,21 +7,22 @@ const Hero = () => {
         <img src={logo} alt="logo" className='w-28 object-contain'/>
         <button
         type='button'
-        onClick={() => window.open('https://github.com/nrenner0211/backdrop-build')}
+        onClick={() => window.open('https://nixwebdev.com', '_blank')}
         className='black_btn'>
-          GitHub
+          Learn More
         </button>
       </nav>
 
       <h1 className="head_text py-2">
-        Summarize Articles with 
+        Summarize Websites and 
         <br className="max-md:hidden"/>
         <span className="gradient">
-          OpenAI GPT-4
+          Boost Productivity
         </span>
       </h1>
       <h2 className='py-2 text-slate-700'>
-        Summa converts articles links into concise summaries with an open-source article summarizer. Works best on websites with clearly defined blocks of text.
+        Need a webpage summarized? Paste the link below ⬇️ <br/>
+        Works best on websites with clearly defined blocks of text
       </h2>
     </header>
   )
